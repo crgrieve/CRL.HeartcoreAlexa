@@ -12,7 +12,7 @@ Once you are ready to start, go to the [Alexa Skills Kit](https://developer.amaz
 
 ![](images/skillsetup.png)
 
-Set up an innvocation name, this is how you ask Alexa to open your skill. For example: 'Heartcore Advent'
+Set up an innvocation name, this is how you ask Alexa to open your skill. For example: 'Hello Heartcore'
 
 You can then set up an Intent. This is basically how users can invoke a function in your code. So in this case, I want users to be able to open a door in the calendar. So I have an intent that allow users to say various statements that call this code.
 
