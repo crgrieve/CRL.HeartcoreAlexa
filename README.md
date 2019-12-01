@@ -21,10 +21,10 @@ You can then set up an Intent. This is basically how users can invoke a function
 ## The Umbraco Setup
 I have set up 2 doc types:
 
-* AdventCalendar
-* AdventCalendarDay - child nodes of AdventCalendar doctype, will represent each day.
-** Day -  Numeric field representing the day in December
-** Message - The message spoken by Alexa when this door is opened.
+- AdventCalendar
+- AdventCalendarDay - child nodes of AdventCalendar doctype, will represent each day.
+  * Day -  Numeric field representing the day in December
+  * Message - The message spoken by Alexa when this door is opened.
 
 ![](images/umbracoContent.png)
 
