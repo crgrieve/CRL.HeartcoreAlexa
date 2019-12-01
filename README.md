@@ -10,7 +10,7 @@ If you are new to Alexa skills, I suggest working through a tutorial from Amazon
 
 Once you are ready to start, go to the [Alexa Skills Kit](https://developer.amazon.com/alexa/console/ask) and select "Create SKill". For this example, select "Custom" and "Alexa-hosted(Node.js)".
 
-![](images/skillsetup.PNG)
+![](images/skillsetup.png)
 
 Set up an innvocation name, this is how you ask Alexa to open your skill. For example: 'Heartcore Advent'
 
@@ -26,7 +26,7 @@ I have set up 2 doc types:
 ** Day -  Numeric field representing the day in December
 ** Message - The message spoken by Alexa when this door is opened.
 
-![](images/umbracoContent.PNG)
+![](images/umbracoContent.png)
 
 ## The code
 
@@ -106,4 +106,4 @@ I the 'Code' tab you will see there is a `package.json` file. Make sure to add t
 When you are done you can select 'Deploy' and go on to 'Test' tab where there is an interface to type or speak to Alexa to test your skill. 
 
 
-![](images/testingSkill.PNG)
+![](images/testingSkill.png)
