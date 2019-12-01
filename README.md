@@ -1,6 +1,6 @@
 # CRL.HeartcoreAlexa
 
-This example code is for an advent calendar Alexa skill to provide a guide to integrating Umbraco Heartcore to a skill.
+This example code is for an advent calendar Alexa skill to provide a guide to integrating Umbraco Heartcore to a skill. If you just want the code, go to the [heartcoreSkill.js](/heartcoreSkill.js) sample. For a step by step guide, carry on reading.
 
 ## Set up your skill
 
