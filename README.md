@@ -103,7 +103,7 @@ I the 'Code' tab you will see there is a `package.json` file. Make sure to add t
 
 ## Testing your skill
 
-When you are done you can select 'Deploy' and go on to 'Test' tab where there is an interface to type or speak to Alexa to test your skill. 
+When you are done you can select 'Deploy' and go on to 'Test' tab where there is an interface to type or speak to Alexa to test your skill. As you can see from my screenshot it's now showing the content from the node we looked at earlier.
 
 
 ![](images/testingSkill.png)
