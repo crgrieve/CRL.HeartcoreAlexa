@@ -16,7 +16,7 @@ Set up an innvocation name, this is how you ask Alexa to open your skill. For ex
 
 You can then set up an Intent. This is basically how users can invoke a function in your code. So in this case, I want users to be able to open a door in the calendar. So I have an intent that allow users to say various statements that call this code.
 
-![](images/intentSetup.PNG)
+![](images/intentSetup.png)
 
 ## The Umbraco Setup
 I have set up 2 doc types:
