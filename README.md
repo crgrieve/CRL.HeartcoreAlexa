@@ -88,7 +88,7 @@ const CalendarDayIntentHandler = {
 
 Note: you will need to make sure your new intent handler is in the `exports.handler` function. Scroll to the bottom of your file.
 
-I the 'Code' tab you will see there is a `package.json` file. Make sure to add the Umbraco Heartcode package reference here. For example, at time of writing, these were the verisons in mine:
+In the 'Code' tab you will see there is a `package.json` file. Make sure to add the Umbraco Heartcode package reference here. For example, at time of writing, these were the verisons in mine:
 
 ```json
   "dependencies": {
